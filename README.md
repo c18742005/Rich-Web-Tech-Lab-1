@@ -1,8 +1,7 @@
 # Rich Web App Tech - Lab 1
 ## Lab Instructions
 ### Problem 1 
-- During the introductory video for this module, you have learned about the differences between websites and web applications. Describe with your own words what these differences are. 
-- Not included in this repo.
+- During the introductory video for this module, you have learned about the differences between websites and web applications. Describe with your own words what these differences are.
 
 ### Problem 2
 - Create a flexible grid with 1 row and 4 columns. The width of each column is 25% of the window size. This percentage width must be maintained even if the page is resized. Each cell of the grid can contain another 1x4 flexible grid. The border of the grid must be 1px black.
